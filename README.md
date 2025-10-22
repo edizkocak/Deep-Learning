@@ -1,9 +1,7 @@
-<div style="border-bottom:none;">
-  <div align="center">
-    <img src="imgs/deep-learning.png" width="300">
-    <h1>Deep Learning Exercises <h1>
-      <h2>Winter Semester 2023<h2>
-  </div>
+<div align="center">
+  <img src="imgs/deep-learning.png" width="300" alt="Deep Learning Logo">
+  <h1 style="margin-bottom: 0;">Deep Learning Exercises</h1>
+  <h2 style="margin-top: 0; font-weight: normal; color: #666;">Winter Semester 2023</h2>
 </div>
 
 ### Topics
@@ -19,3 +17,4 @@
 * [numpy](https://www.numpy.org/)
 * [OpenCV](https://pypi.org/project/opencv-python/)
 * [matplotlib](https://matplotlib.org)
+* [pytorch](https://pytorch.org)
