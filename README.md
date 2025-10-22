@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="imgs/deep-learning.png" width="300" alt="Deep Learning Logo">
-  <h1 style="margin-bottom: 0;">Deep Learning Exercises</h1>
-  <h2 style="margin-top: 0; font-weight: normal; color: #666;">Winter Semester 2023</h2>
-</div>
+## Deep Learning Exercises (Winter Semester 2023)
+
 
 ### Topics
 * Exercise 0 - Warmup - plot Checker board, RGB color spectrum
